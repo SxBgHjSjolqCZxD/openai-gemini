@@ -2,3 +2,6 @@ name = "gemini"
 main = "src/worker.mjs"
 compatibility_date = "2024-01-17"
 compatibility_flags = [ "nodejs_compat" ]
+
+[placement]
+mode = "smart"
